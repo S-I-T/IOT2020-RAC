@@ -1,1 +1,2 @@
-# IOT2020 - Realtime Access Control
+# IOT2020-RAC
+IOT2020 based realtime access control
