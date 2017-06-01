@@ -1,5 +1,5 @@
 # IOT2020 - Realtime Access Control
-Web UI for [IOT2020-RAC](https://www.hackster.io/sit/iot2020-realtime-access-control-20613a), based on nodejs and Firebase.
+Server script for [IOT2020-RAC](https://www.hackster.io/sit/iot2020-realtime-access-control-20613a), based on nodejs and Firebase.
 
 ## Instalation
 0. Create an account in [Firebase](https://firebase.google.com/) and get [configuration](https://firebase.google.com/docs/web/setup)
