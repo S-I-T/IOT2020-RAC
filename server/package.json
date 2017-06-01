@@ -1,0 +1,17 @@
+{
+  "name": "iot2020-rac-server",
+  "version": "1.0.0",
+  "description": "IOT2020 based realtime access control, server script",
+  "main": "main.js",
+  "scripts": {
+    "prestart":"./ttyS0Setup.sh",
+    "start":"node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SIT",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.0.0",
+    "serialport": "^4.0.7"
+  }
+}
